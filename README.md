@@ -1,6 +1,6 @@
 # Getting Trajectories
 
-Go to [this link](https://github.com/karanchahal/xarm-pouring) to get pouring trajectories.
+Go to [this link](https://drive.google.com/drive/folders/1Zm4u-kaTnvkoQ1pWkKsCA80pFGZPQxwy?usp=sharing) to get pouring trajectories.
 
 Place the trajectory pickle files in the ```./trajs``` folder at the root of this project
 
