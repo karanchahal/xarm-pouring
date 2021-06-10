@@ -2,3 +2,5 @@ pickle
 imageio
 imageio-ffmpeg
 numpy
+torch
+matplotlib
