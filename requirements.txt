@@ -4,3 +4,10 @@ imageio-ffmpeg
 numpy
 torch
 matplotlib
+pyrealsense2
+numpy
+opencv-python
+torch
+torchvision
+open3d
+git+https://github.com/xArm-Developer/xArm-Python-SDK.git
